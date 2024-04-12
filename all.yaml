@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/munchicken/demo-app:latest
+      - image: ghcr.io/munchicken/demo-app:8beeaeac5f335287b5881bc49da7c73024439cee
         name: demo-app
         ports:
         - containerPort: 8080
