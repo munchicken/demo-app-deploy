@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/munchicken/demo-app
+  newTag: d99e88476cf804c9614e537305512441bb708fef
