@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/munchicken/demo-app
-  newTag: 8beeaeac5f335287b5881bc49da7c73024439cee
+  newTag: d99e88476cf804c9614e537305512441bb708fef
